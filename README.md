@@ -13,7 +13,23 @@ Let's scrap Jumia Website with Python Django
     cd web-scrapping-django
 ```
 
-to navigate to the cloned repo 4. Run the command ` pip install -r requirements.txt` 5. Run ` cd webscrapping` to navigate to the correct folder 6. Run ` python manage.py runserver` to start your application 7. Test your Application
+to navigate to the cloned repo 4. Run the command ```bash pip install -r requirements.txt```` 5. Run
+
+```bash
+    cd webscrapping
+```
+
+to navigate to the correct folder
+
+6. Run
+
+```bash
+    python manage.py runserver
+```
+
+to start your application
+
+7. Test your Application
 
 # 💻 Launch Your Software Development Career Today!
 
